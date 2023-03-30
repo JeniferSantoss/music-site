@@ -17,7 +17,7 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 * JavaScript
 
 ## Como executar
-Para executar o site, basta abrir o arquivo index.html em um navegador web. Não é necessário nenhum tipo de instalação ou configuração adicional.
+Para executar o site, basta clicar [aqui](jenifersantoss.github.io/music-site/). Não é necessário nenhum tipo de instalação ou configuração adicional.
 
 ## Contribuindo
 Sinta-se à vontade para contribuir com o projeto. Você pode reportar bugs, sugerir melhorias ou enviar novas funcionalidades através das issues. Se preferir, você também pode enviar um pull request com suas alterações.
